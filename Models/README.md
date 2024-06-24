@@ -1,8 +1,8 @@
-#### Algorithms we apply on Spark MLlib
+#### Алгоритмы, которые мы применяем в Spark MLlib
 -TFIDF
 -Logistic Regression
 
-#### Algorithms we tried to apply but failed
+#### Алгоритмы, которые мы пытались применить, но не смогли
 -PCA
 -Random Forest
 -Gradient Boosting Tree  
